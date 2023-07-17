@@ -3,7 +3,8 @@ output_dir: "."
 navbar:
   title: "Stephen Cadieux"
   left:
-    - text: "Stephen Cadieux"
-      href: index.html
     - text: "Publications"
       href: about.html
+output:
+  html_document:
+    theme: darkly

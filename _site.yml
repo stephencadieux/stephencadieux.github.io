@@ -4,7 +4,7 @@ navbar:
   title: "Stephen Cadieux"
   left:
     - text: "Publications"
-      href: about.html
+      href: publications.html
 output:
   html_document:
     theme: darkly

@@ -1,6 +1,9 @@
-name: "My Website"
+name: "stephens-website"
+output_dir: "."
 navbar:
   title: "Stephen Cadieux"
-left:
-  - text: "Home"
-href: index.html
+  left:
+    - text: "Stephen Cadieux"
+      href: index.html
+    - text: "Publications"
+      href: about.html

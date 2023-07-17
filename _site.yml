@@ -13,5 +13,6 @@ navbar:
       href: resources.html
     - text: "Sanskrit"
       href: sanskrit.html
+output:
   html_document:
     theme: darkly

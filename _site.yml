@@ -5,6 +5,13 @@ navbar:
   left:
     - text: "Publications"
       href: publications.html
-output:
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Resources"
+      href: resources.html
+    - text: "Sanskrit"
+      href: sanskrit.html
   html_document:
     theme: darkly

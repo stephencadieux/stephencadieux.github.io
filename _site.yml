@@ -1,0 +1,6 @@
+name: "My Website"
+navbar:
+  title: "Stephen Cadieux"
+left:
+  - text: "Home"
+href: index.html

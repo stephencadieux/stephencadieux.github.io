@@ -10,4 +10,3 @@ title: "Publications"
 </style>
 
 $$\\[0.2in]$$
-My Publications

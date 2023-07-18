@@ -10,4 +10,3 @@ title: "Sanskrit"
 </style>
 
 $$\\[0.2in]$$
-Sanskrit

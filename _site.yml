@@ -2,7 +2,6 @@ name: "stephens-website"
 output_dir: "."
 navbar:
   title: "Stephen Cadieux"
-  main-container: 800px
   right:
     - text: "Publications"
       href: Publications.html

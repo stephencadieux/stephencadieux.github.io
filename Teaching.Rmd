@@ -10,4 +10,3 @@ title: "Teaching"
 </style>
 
 $$\\[0.2in]$$
-My Teaching

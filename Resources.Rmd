@@ -10,4 +10,5 @@ title: "Resources"
 </style>
 
 $$\\[0.2in]$$
-My Resources
+# Research
+* [Public Religion Research Institute](https://www.prri.org/)

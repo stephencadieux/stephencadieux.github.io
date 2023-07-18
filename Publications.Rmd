@@ -1,5 +1,13 @@
 ---
 title: "Publications"
 ---
+<style type="text/css">
 
+.main-container {
+  max-width: 800px;
+}
+
+</style>
+
+$$\\[0.2in]$$
 My Publications

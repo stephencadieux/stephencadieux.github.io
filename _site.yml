@@ -4,15 +4,15 @@ navbar:
   title: "Stephen Cadieux"
   right:
     - text: "Publications"
-      href: publications.html
+      href: Publications.html
     - text: "Research"
-      href: research.html
+      href: Research.html
     - text: "Teaching"
-      href: teaching.html
+      href: Teaching.html
     - text: "Resources"
-      href: resources.html
+      href: Resources.html
     - text: "Sanskrit"
-      href: sanskrit.html
+      href: Sanskrit.html
 output:
   html_document:
     theme: darkly

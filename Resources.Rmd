@@ -10,9 +10,10 @@ title: "Resources"
 </style>
 
 $$\\[0.2in]$$
-<h3>Research</h3>
+<h3>Research Resources</h3>
 
 <ul>
+  <li>[Freely Available Resources for Research: Social Sciences](https://guides.lib.berkeley.edu/FreeResources/socialsciences)</li>
   <li>[Public Religion Research Institute](https://www.prri.org/)</li>
 </ul>
 

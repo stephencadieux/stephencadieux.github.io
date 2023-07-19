@@ -10,5 +10,35 @@ title: "Resources"
 </style>
 
 $$\\[0.2in]$$
-# Research
-* [Public Religion Research Institute](https://www.prri.org/)
+<h3>Research</h3>
+
+<ul>
+  <li>[Public Religion Research Institute](https://www.prri.org/)</li>
+</ul>
+
+<h3>Research Tools</h3>
+
+<ul>
+  <li>[Learn how to use Zotero in 30 minutes](https://www.youtube.com/watch?v=BQL_7C-YqBk)</li>
+</ul>
+
+<h3>R</h3>
+
+<ul>
+  <li>[Installing R and RStudio](https://www.youtube.com/watch?v=ZvPFKfNHBNQ&list=PLEzw67WWDg83weG3idsgy4wuOIJAashA2)</li>
+  <li>[Intro to R](https://www.statmethods.net/index.html)</li>
+  <li>[Cookbook for R](http://www.cookbook-r.com/)</li>
+</ul>
+
+<h3>Writing</h3>
+
+<ul>
+  <li>[Brief Guide to Writing the Psychology Paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://hwpi.harvard.edu/files/hwp/files/bg_psychology.pdf)</li>
+</ul>
+
+<h3>Academia</h3>
+
+<ul>
+  <li>[Diversity in Academia](https://diversityinacademia.mystrikingly.com/)</li>
+  <li>[Academic Salaries](https://academicsalaries.github.io/)</li>
+</ul>

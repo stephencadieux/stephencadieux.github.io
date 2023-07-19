@@ -33,7 +33,7 @@ $$\\[0.2in]$$
 <h3>Writing</h3>
 
 <ul>
-  <li>[Brief Guide to Writing the Psychology Paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://hwpi.harvard.edu/files/hwp/files/bg_psychology.pdf)</li>
+  <li>[Brief Guide to Writing the Psychology Paper](bg_psychology.pdf)</li>
 </ul>
 
 <h3>Academia</h3>

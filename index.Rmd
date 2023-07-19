@@ -1,6 +1,7 @@
 ---
 pagetitle: "Stephen Cadieux"
 ---
+<meta name="Stephen Cadieux" content="My research interests include well-being, religion and spirituality, culture, and the effects of psychedelics on social connection and wellness">
 <style type="text/css">
 
 .main-container {

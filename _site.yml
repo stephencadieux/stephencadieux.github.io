@@ -5,10 +5,10 @@ navbar:
   right:
     - text: "Publications"
       href: Publications.html
-    - text: "Research"
-      href: Research.html
-    - text: "Teaching"
-      href: Teaching.html
+  #  - text: "Research"
+  #    href: Research.html
+  #  - text: "Teaching"
+  #    href: Teaching.html
     - text: "Resources"
       href: Resources.html
     - text: "Sanskrit"

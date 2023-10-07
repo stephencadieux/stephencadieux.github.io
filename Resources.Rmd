@@ -28,6 +28,7 @@ $$\\[0.2in]$$
 <ul>
   <li>[Installing R and RStudio](https://www.youtube.com/watch?v=ZvPFKfNHBNQ&list=PLEzw67WWDg83weG3idsgy4wuOIJAashA2)</li>
   <li>[Intro to R](https://www.statmethods.net/index.html)</li>
+  <li>[Harvard EdX Data Science: R Basics](https://pll.harvard.edu/course/data-science-r-basics)</li>
   <li>[Cookbook for R](http://www.cookbook-r.com/)</li>
 </ul>
 

@@ -10,3 +10,8 @@ title: "Teaching"
 </style>
 
 $$\\[0.2in]$$
+<h3>Resources</h3>
+
+<ul>
+  <li>[Leading Effective Class Discussions](https://learninginnovation.duke.edu/resources/art-and-science-of-teaching/leading-effective-class-discussions/)</li>
+</ul>

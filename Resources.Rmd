@@ -21,6 +21,7 @@ $$\\[0.2in]$$
 
 <ul>
   <li>[Learn how to use Zotero in 30 minutes](https://www.youtube.com/watch?v=BQL_7C-YqBk)</li>
+  <li>[Understanding Statistical Power and Significance Testing](https://rpsychologist.com/d3/nhst/)</li>
 </ul>
 
 <h3>R</h3>

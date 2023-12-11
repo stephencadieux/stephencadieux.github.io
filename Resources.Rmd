@@ -38,6 +38,7 @@ $$\\[0.2in]$$
 <ul>
   <li>[Brief Guide to Writing the Psychology Paper](bg_psychology.pdf)</li>
   <li>[The Writing Workshop by Barbara W. Sarnecka](https://osf.io/z4n3t)</li>
+  <li>[Writing Empirical Papers by Connie Wolfe](Writing Empirical Papers Beginners Guide.pdf)</li>
 </ul>
 
 <h3>Academia</h3>

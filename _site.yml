@@ -9,7 +9,7 @@ navbar:
   #    href: Research.html
     - text: "Teaching"
       href: Teaching.html 
-    - text: "Resources"
+    - text: "Resources" 
       href: Resources.html
     - text: "Sanskrit"
       href: Sanskrit.html

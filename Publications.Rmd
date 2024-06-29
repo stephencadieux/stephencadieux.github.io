@@ -10,5 +10,5 @@ title: "Publications"
 </style>
 
 $$\\[0.2in]$$
-Dhawan, N.^, **Cadieux, S.^**, & Langer, E. J. (2024). The Effect of Langerian Mindfulness on the Consumption and Conveyance of Fake News. PsyArXiv. [https://doi.org/10.31234/osf.io/zqn4e](https://doi.org/10.31234/osf.io/zqn4e)  
+Dhawan, N.^, **Cadieux, S.^**, & Langer, E. J. (2024). *The Effect of Langerian Mindfulness on the Consumption and Conveyance of Fake News.* PsyArXiv. [https://doi.org/10.31234/osf.io/zqn4e](https://doi.org/10.31234/osf.io/zqn4e)  
 ^Co-authors

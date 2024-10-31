@@ -2,7 +2,7 @@
 title: "Resources"
 ---
 <style type="text/css">
-
+ 
 .main-container {
   max-width: 800px;
 }

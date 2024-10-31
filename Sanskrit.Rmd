@@ -3,7 +3,7 @@ title: "Sanskrit"
 ---
 <style type="text/css">
 
-.main-container {
+.main-container { 
   max-width: 800px;
 }
 

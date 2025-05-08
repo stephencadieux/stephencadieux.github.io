@@ -1,7 +1,7 @@
 ---
 pagetitle: Stephen Cadieux
 ---
-<meta name="Stephen Cadieux" content="I am interested broadly in well-being, and specifically in spiritual practices and social connection.">
+<meta name="Stephen Cadieux" content="I am interested broadly in well-being, and specifically in spiritual practices and social connection">
 <style type="text/css">
 
 .main-container {
@@ -11,6 +11,6 @@ pagetitle: Stephen Cadieux
 </style>
 
 $$\\[0.2in]$$
-I am pursuing my PhD in social psychology at the University of California, Riverside under the supervision of [Dr. Sonja Lyubomirsky](https://sonjalyubomirsky.com/). I am interested broadly in well-being and specifically in spirituality, psychedelics, and social connection.
+I am pursuing my PhD in social psychology at the University of California, Riverside under the supervision of [Dr. Sonja Lyubomirsky](https://sonjalyubomirsky.com/). I am interested broadly in well-being and specifically in spiritual practices and social connection.
 
 Before beginning my PhD, I was a research assistant studying mindfulness and fake news with [Dr. Ellen Langer](https://psychology.fas.harvard.edu/people/ellen-langer) at Harvard University. I have a bachelor’s degree in sociology from The Ohio State University.

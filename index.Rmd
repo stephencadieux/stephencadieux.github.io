@@ -1,7 +1,7 @@
 ---
 pagetitle: Stephen Cadieux
 ---
-<meta name="Stephen Cadieux" content="I am interested broadly in well-being, and specifically in spiritual practices and social connection">
+<meta name="Stephen Cadieux" content="I am interested broadly in well-being, and specifically in spiritual practices and social connection.">
 <style type="text/css">
 
 .main-container {

@@ -10,3 +10,8 @@ title: "Research"
 </style>
 
 $$\\[0.2in]$$
+<h3>Global Happiness Megastudy</h3>
+
+<ul>
+  <li>The [Global Happiness Megastudy](https://www.happinessmegastudy.com/home) is a large-scale, cross-cultural, collaborative project comparing the effectiveness of eight popular, easily implemented happiness intervention strategies.</li>
+</ul>

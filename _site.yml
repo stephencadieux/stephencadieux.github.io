@@ -5,8 +5,8 @@ navbar:
   right:
     - text: "Publications"
       href: Publications.html
-  #  - text: "Research"
-  #    href: Research.html
+    - text: "Research"
+      href: Research.html
     - text: "Press & Media"
       href: Press.html 
     - text: "Resources" 

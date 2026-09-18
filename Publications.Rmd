@@ -10,11 +10,19 @@ title: "Publications"
 </style>
 
 $$\\[0.2in]$$
-**Cadieux, S.**, Lyubomirsky, S. How Chanting Enhances Well-Being: The Roles of Vocalization, Repetition, and Concentration. *Mindfulness* (2026). https://doi.org/10.1007/s12671-026-02951-2
+## PUBLICATIONS
 
-Vannoy, T. K., **Cadieux, S.**, & Lyubomirsky, S. (2026). Human 2.0? AI and the Future of Well-Being, Connection, and Personal Growth: A Narrative Review. *Behavioral Sciences, 16*(6), 909. <https://doi.org/10.3390/bs16060909>
+**Cadieux, S.**, & Lyubomirsky, S. (2026). How chanting enhances well-being: The roles of vocalization, repetition, and concentration. *Mindfulness*. <https://doi.org/10.1007/s12671-026-02951-2>
 
-Montemayor-Dominguez, M., Chinn, J., **Cadieux, S.**, & Lyubomirsky, S. (in press). Culture and 		well-being: Five empirical approaches. In M. Yik (Ed.), *The Oxford handbook of emotion and culture.*
+Vannoy, T. K., **Cadieux, S.**, & Lyubomirsky, S. (2026). Human 2.0? AI and the future of well-being, connection, and personal growth: A narrative review. *Behavioral Sciences, 16*(6), 909. <https://doi.org/10.3390/bs16060909>
 
-Dhawan, N., **Cadieux, S.**, & Langer, E. J. (2024). *The Effect of Langerian Mindfulness on the Consumption and Conveyance of Fake News.* PsyArXiv. [https://doi.org/10.31234/osf.io/zqn4e](https://doi.org/10.31234/osf.io/zqn4e)  
+## MANUSCRIPTS, PREPRINTS, AND REGISTERED REPORTS
+
+**Cadieux, S.**, Montemayor-Dominguez, M., & Lyubomirsky, S. (2026). Rethinking conference structure for early-career researchers. *Collabra: Psychology*. (Under review)
+
+Montemayor-Dominguez, M., Chinn, J., **Cadieux, S.**, & Lyubomirsky, S. Culture and well-being: Five empirical approaches. In M. Yik (Ed.), *The Oxford handbook of emotion and culture*. (In press)
+
+Szaszi, B., Dunn, E., Folk, D., Clelland, H. T., Maier, M., … **Cadieux, S.**, … Coles, N. A. (2026). *A global megastudy of the effectiveness of popular activities for promoting happiness*. Zenodo. <https://doi.org/10.5281/zenodo.22788118> (Stage 1 registered report)
+
+Dhawan, N., **Cadieux, S.**, & Langer, E. J. (2024). *The effect of Langerian mindfulness on the consumption and conveyance of fake news*. PsyArXiv. <https://doi.org/10.31234/osf.io/zqn4e> (Preprint)
 
